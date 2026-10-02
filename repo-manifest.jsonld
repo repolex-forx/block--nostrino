@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/nostrino/commit/fbd28f7195de63c283cfb57807884559cca81a4a",
       "git:hexsha": "fbd28f7195de63c283cfb57807884559cca81a4a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     },
     {

@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "nostrino",
+  "versions": [
+    {
+      "commit": "fbd28f7195de63c283cfb57807884559cca81a4a",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:17:45.882105+00:00"
+    }
+  ]
+}

@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/nostrino/commit/fbd28f7195de63c283cfb57807884559cca81a4a",
       "git:hexsha": "fbd28f7195de63c283cfb57807884559cca81a4a",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-02T10:17:45.614006+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/nostrino/commit/bd9bff7f4b9914cfec165298275713e62d004064",

@@ -1,0 +1,7 @@
+[2026-11-21T22:58:04Z] === AST ITERATION 1 START | repo=block/nostrino sha=f619fa09 ===
+[2026-11-21T22:58:04Z] [iter=1] PHASE START: ast repo=block/nostrino sha=f619fa09
+[2026-11-21T22:58:04Z] [iter=1] Building AST aggregate chunks
+[2026-11-21T22:58:20Z] [iter=1] AST chunks built count=1 triples=233548
+[2026-11-21T22:58:20Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f619fa09a83410a9246a04af7ab15cfc1505bf1d/.complete
+[2026-11-21T22:58:20Z] [iter=1] PHASE END: ast elapsed_s=16 elapsed_min=0.3
+[2026-11-21T22:58:20Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
